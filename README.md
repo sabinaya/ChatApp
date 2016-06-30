@@ -1,2 +1,2 @@
 # ChatApp
-Simple Chat Applicatino (Full Stack Development)
+Simple Chat Application (Full Stack Development)
